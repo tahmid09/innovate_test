@@ -1,7 +1,7 @@
 ## Project Outline
 ## DATABASE Schemas check in DB folder ##
-## src/utility folder create logger file ##
-## src/models folder check app related model ##
+## src/utility folder for logger file ##
+## src/models folder for all app related model ##
 ## src/core folder check app error exception and error handling file ##
 ## test folder was created app testing code check test commend: npm run test ##
 
