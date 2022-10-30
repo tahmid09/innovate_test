@@ -1,5 +1,5 @@
 ## Project Outline
-## DATABASE schama check in DB folder ##
+## DATABASE Schemas check in DB folder ##
 ## src/utility folder create logger file ##
 ## src/models folder check app related model ##
 ## src/core folder check app error exception and error handling file ##
